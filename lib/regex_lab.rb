@@ -2,11 +2,11 @@ def starts_with_a_vowel?.scan (/[aeiou]+/)
 
 end
 
-def words_starting_with_un_and_ending_with_ing(/(un)+(ing)/)
+def words_starting_with_un_and_ending_with_ing.scan (/(un)+(ing)/)
 
 end
 
-def words_five_letters_long(/\w{5}/)
+def words_five_letters_long.scan (/\w{5}/)
 
 end
 
