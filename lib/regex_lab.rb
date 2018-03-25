@@ -10,7 +10,7 @@ def words_five_letters_long.scan(/\w{5}/)
   words_five_letters_long
 end
 
-def first_word_capitalized_and_ends_with_punctuation?(text)
+def first_word_capitalized_and_ends_with_punctuation?.scan(//)
 
 end
 
