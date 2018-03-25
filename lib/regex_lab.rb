@@ -15,5 +15,5 @@ def first_word_capitalized_and_ends_with_punctuation?.scan(//)
 end
 
 def valid_phone_number?.scan(/(\d\d\d)-(\d\d\d)-(\d\d\d\d))/)
-
+  valid_phone_number?
 end
