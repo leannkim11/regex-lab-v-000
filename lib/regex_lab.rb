@@ -2,7 +2,7 @@ def starts_with_a_vowel?.scan (/[aeiou]+/)
 
 end
 
-def words_starting_with_un_and_ending_with_ing(text)
+def words_starting_with_un_and_ending_with_ing(/(un)+(ing)/)
 
 end
 
