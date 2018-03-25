@@ -1,4 +1,4 @@
-def starts_with_a_vowel?. scan(/[aeiou]+/)
+def starts_with_a_vowel?.scan(/[aeiou]+/)
 
 end
 
