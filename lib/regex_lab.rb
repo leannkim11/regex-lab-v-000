@@ -6,7 +6,7 @@ def words_starting_with_un_and_ending_with_ing(/(un)+(ing)/)
 
 end
 
-def words_five_letters_long(text)
+def words_five_letters_long(/w{5})
 
 end
 
